@@ -10,3 +10,19 @@ node app.js
 2. PATH
 3. FS
 4. HTTP
+
+> package.json - manifest file (stores important info about project/package)
+
+when creating it
+
+```
+- manual aproach (create package.json in root, create properties etc)
+- npm init (step by step, press enter to skip)
+- npm init -y (everything default)
+```
+
+for compilation we can use
+
+```
+nodemon
+```
